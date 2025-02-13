@@ -1,25 +1,10 @@
 # 🚀 Ignorar dependencias en Angular y Symfony
 voxCorp-frontend/node_modules/
-voxCorpApi/vendor/
 
-# 🚀 Ignorar archivos de caché y logs en Symfony
-voxCorpApi/var/cache/
-voxCorpApi/var/log/
-
-# 🚀 Ignorar archivos sensibles de Symfony
-voxCorpApi/.env
 voxCorpApi/.env.local
+voxCorpApi/.env.local.php
 voxCorpApi/.env.*.local
-
-# 🚀 Ignorar archivos de testing en Symfony
-voxCorpApi/phpunit.xml
-voxCorpApi/phpunit.xml.dist
-voxCorpApi/.phpunit.result.cache
-
-# 🚀 Ignorar archivos de configuración de editores
-.idea/
-.vscode/
-
-# 🚀 Ignorar archivos temporales de npm y Yarn
-voxCorp-frontend/npm-debug.log
-voxCorp-frontend/yarn-error.log
+voxCorpApi/config/secrets/prod/prod.decrypt.private.php
+voxCorpApi/public/bundles/
+voxCorpApi/var/
+voxCorpApi/vendor/
