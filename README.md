@@ -155,5 +155,5 @@ docker-compose up -d
 
 ## 📌 Autor
 **Miguel Andres de Cavalcante**  
-📧 Contacto: [Tu Email o LinkedIn]
+📧 Contacto: [amdresscavacal@gmail.com]
 
